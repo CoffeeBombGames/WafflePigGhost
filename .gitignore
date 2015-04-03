@@ -1,6 +1,7 @@
 # Unreal Backups
-Saved
-
+Saved/
+Binaries/
+Intermediate/
 
 # Windows image file caches
 Thumbs.db
@@ -45,3 +46,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+WPSecondBreakfast/Saved/Logs/WPSecondBreakfast.log
